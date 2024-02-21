@@ -4,7 +4,7 @@ Frontend Developer & UI/UX Designer
 *   🌍  I'm based in Turkey/Yalova
 *   🖥️  See my portfolio at [Website](http://linktr.ee/adopa)
 *   ✉️  You can contact me at [adnansevkikasikci@gmail.com](mailto:adnansevkikasikci@gmail.com)
-*   🚀  I'm currently working on [Novelty Yapay Zeka Teknolojileri](http://noveltybilisim.com.tr/)
+*   🚀  I'm currently working on [Time Yazılım](https://timeyazilim.com.tr/)
 *   🧠  I'm learning Frontend Technologies
 *   ⚡  Assionate about creating clean & user-friendly interfaces | 🌐 Building web solutions.
 
