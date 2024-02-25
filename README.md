@@ -1,4 +1,4 @@
-Frontend Developer & UI/UX Designer
+Full Stack Web Developer & UI/UX Designer
 -----------------------------------
 
 *   🌍  I'm based in Turkey/Yalova
